@@ -6,7 +6,7 @@ const app = express()
 
 app.get('/get',(req , res)=>{
     res.send({
-        "message":"api working"
+        "message":"api working 1"
     })
 })
 
