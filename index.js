@@ -12,5 +12,5 @@ app.get('/get',(req , res)=>{
 
 
 app.listen(3000,()=>{
-    console.log('server is listing on 3000')
+    console.log('server is listing o 3000')
 })
